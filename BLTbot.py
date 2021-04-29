@@ -62,4 +62,4 @@ async def mismatchhelp(ctx):
                    " 9   | Saman Safari\n "
                    " 10  | jordan```")
 
-client.run("ODE0NjkxMzIyNjM5Mjg2Mjky.YDhiaw.S5TLHPPfswlx8wGdU1LuYew0gRw")
+client.run(Token)
