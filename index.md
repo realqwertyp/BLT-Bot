@@ -10,7 +10,7 @@ open source
 
 Lettuce
 
-###### Invite Link:
+# Invite Link:
 
 (Link)[https://discord.com/api/oauth2/authorize?client_id=814691322639286292&permissions=2112&scope=bot]
 
