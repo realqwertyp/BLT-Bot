@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to BLT Bot
 
-You can use the [editor on GitHub](https://github.com/realqwertyp/BLT-Bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This bot will allow you to
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you
 
-### Markdown
+open source
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bacon
+
+Lettuce
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Example:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+@client.command()
+async def gif(ctx):
+  await ctx.send("https://tenor.com/view/letter-b-dancing-gif-9063746")
+  await ctx.send("https://tenor.com/view/red-alphabet-letter-dancing-letter-l-cartoons-gif-12084376")
+  await ctx.send("https://tenor.com/view/letter-t-gif-9063764")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Lettuce
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/realqwertyp/BLT-Bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+discord.gg/BLT
